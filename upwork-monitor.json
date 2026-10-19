@@ -1,0 +1,12 @@
+{
+  "client_id": "https://kylemeags.github.io/kungpow-oauth-clients/upwork-monitor.json",
+  "client_name": "Kung Pow Upwork Monitor",
+  "client_uri": "https://github.com/kylemeags/kungpow-oauth-clients",
+  "redirect_uris": ["http://localhost:8765/callback", "http://127.0.0.1:8765/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "application_type": "native",
+  "software_id": "kungpow-upwork-monitor",
+  "software_version": "0.1.0"
+}
